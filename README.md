@@ -31,19 +31,19 @@
 ## User Interface
 
 - *Game started state*
-<br><br><img src="demo/img_2.png" alt="Game started statee" width="300"/>
- 
+![Screenshot 1](demo/img_2.png) 
+
 - *Idle state (a next move can be performed)*
-<br><br><img src="demo/img.png" alt="Idle state" width="300"/>
+![Screenshot 2](demo/img.png) 
 
 - *Players started a war*
-<br><br><img src="demo/img_3.png" alt="Players started a war" width="300"/>
+![Screenshot 2](demo/img_3.png)
 
 - *Player won a war*
-<br><br><img src="demo/img_1.png" alt="Player won a war" width="300"/>
+![Screenshot 3](demo/img_1.png)
 
 - *Player won*
-<br><br><img src="demo/img_4.png" alt="Player won" width="300"/>
+![Screenshot 3](demo/img_4.png)
 
 ## Resources
 
