@@ -31,19 +31,19 @@
 ## User Interface
 
 - *Game started state*
-![Screenshot 1](demo/img_2.png) 
+![Screenshot 1](https://github.com/oanamacsim/WarCardsGame/blob/main/demo/img_2.png) 
 
 - *Idle state (a next move can be performed)*
-![Screenshot 2](demo/img.png) 
+![Screenshot 2](https://github.com/oanamacsim/WarCardsGame/blob/main/demo/img.png) 
 
 - *Players started a war*
-![Screenshot 2](demo/img_3.png)
+![Screenshot 2](https://github.com/oanamacsim/WarCardsGame/blob/main/demo/img_3.png)
 
 - *Player won a war*
-![Screenshot 3](demo/img_1.png)
+![Screenshot 3](https://github.com/oanamacsim/WarCardsGame/blob/main/demo/img_1.png)
 
 - *Player won*
-![Screenshot 3](demo/img_4.png)
+![Screenshot 3](https://github.com/oanamacsim/WarCardsGame/blob/main/demo/img_4.png)
 
 ## Resources
 
